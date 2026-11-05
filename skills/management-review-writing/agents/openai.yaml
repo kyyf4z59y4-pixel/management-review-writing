@@ -1,0 +1,4 @@
+interface:
+  display_name: "管理学综述写作"
+  short_description: "基于中英文管理学综述范文，支持选题定位、证据综合、理论整合、写作与审读"
+  default_prompt: "请使用 $management-review-writing，根据我的研究主题和已有文献，确定综述问题、整合主轴和写作提纲。"
